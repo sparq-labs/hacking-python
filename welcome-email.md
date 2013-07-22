@@ -4,7 +4,7 @@ Hello! You should be recieving this email if you have signed up for the Python
 workshop by Sparq Labs tomorrow evening. I'm Phil, and for some reason I was
 offered the chance to run this worshop. I'm excited!
 
-*[see this message on GitHub](https://github.com/sparq/hacking-python)*
+*[see this message on GitHub](https://github.com/sparq-labs/hacking-python/blob/master/welcome-email.md)*
 
 
 ## ACTION ITEM: GET GITHUB
@@ -20,7 +20,7 @@ a lot of time tomorrow.
 
 ### Send me your github username
 
-My email address is [uniphil@gmail.com](mailto:uniphil@gmail.com)). I'll add
+My email address is [uniphil@gmail.com](mailto:uniphil@gmail.com). I'll add
 you to the workshop project so you can get a sneak peek. I'm
 [uniphil](https://github.com/uniphil) on github.
 
@@ -107,5 +107,6 @@ Phil
 
 ps. the formatting of this message is a markup language called "Markdown".
 It's nice because it's easy to read and write raw Markdown, and computers can
-parse it and make it look nice. I put [this message on GitHub]() -- if you check
-it out there you'll see it all styled nicely.
+parse it and make it look nice. I put [this message on GitHub]
+(https://github.com/sparq-labs/hacking-python/blob/master/welcome-email.md) --
+if you check it out there you'll see it all styled nicely.
